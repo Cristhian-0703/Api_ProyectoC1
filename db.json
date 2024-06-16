@@ -1,0 +1,97 @@
+{
+    "ProyectoC1": [
+        {
+            "id": 1,
+            "Riesgo": "AISLAMIENTO DE ENERGÍA",
+            "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
+            "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
+            "Punto de intersección (según la tabla del IPERC)": "13",
+            "Descripción": "Este riesgo se presenta en entornos industriales donde se manejan equipos eléctricos o mecánicos. La falta de aislamiento adecuado de las fuentes de energía antes de realizar trabajos de mantenimiento puede llevar a accidentes graves, como electrocuciones, quemaduras o lesiones por movimiento inesperado de máquinas.",
+            "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a1/Eren_Jaeger_(Anime)_character_image.png"
+        },
+        {
+            "id": 2,
+            "Control": "PROCEDIMIENTOS DE BLOQUEO Y ETIQUETADO (LOTO)",
+            "Severidad": "Menor (con procedimientos adecuados se pueden prevenir incidentes)",
+            "Frecuencia": "Raro que suceda (si se siguen las medidas de protección adecuadas)",
+            "Punto de intersección (según la tabla del IPERC)": "24",
+            "Descripción": "Implementar y seguir estrictamente los procedimientos de bloqueo y etiquetado (LOTO), capacitación constante del personal sobre prácticas seguras, realizar inspecciones periódicas de los equipos, y asegurarse de que todos los trabajadores tengan y utilicen el equipo de protección personal adecuado.",
+            "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4f/Mikasa_Ackermann_%28Anime%29_character_image.png"
+        },
+        {
+            "id": 3,
+            "Riesgo": "AISLAMIENTO DE ENERGÍA",
+            "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
+            "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
+            "Punto de intersección (según la tabla del IPERC)": "13",
+            "Descripción": "Este riesgo se presenta en entornos industriales donde se manejan equipos eléctricos o mecánicos. La falta de aislamiento adecuado de las fuentes de energía antes de realizar trabajos de mantenimiento puede llevar a accidentes graves, como electrocuciones, quemaduras o lesiones por movimiento inesperado de máquinas.",
+            "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/93/Armin_Arlelt_%28Anime%29_character_image.png"
+        },
+        {
+            "id": 4,
+            "Riesgo": "AISLAMIENTO DE ENERGÍA",
+            "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
+            "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
+            "Punto de intersección (según la tabla del IPERC)": "13",
+            "Descripción": "Este riesgo se presenta en entornos industriales donde se manejan equipos eléctricos o mecánicos. La falta de aislamiento adecuado de las fuentes de energía antes de realizar trabajos de mantenimiento puede llevar a accidentes graves, como electrocuciones, quemaduras o lesiones por movimiento inesperado de máquinas.",
+            "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b1/Levi_Ackermann_%28Anime%29_character_image.png"
+        },
+        {
+            "id": 5,
+            "Riesgo": "AISLAMIENTO DE ENERGÍA",
+            "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
+            "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
+            "Punto de intersección (según la tabla del IPERC)": "13",
+            "Descripción": "Este riesgo se presenta en entornos industriales donde se manejan equipos eléctricos o mecánicos. La falta de aislamiento adecuado de las fuentes de energía antes de realizar trabajos de mantenimiento puede llevar a accidentes graves, como electrocuciones, quemaduras o lesiones por movimiento inesperado de máquinas.",
+            "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/40/Zeke_Jaeger_%28Anime%29_character_image.png"
+        },
+        {
+            "id": 6,
+            "Riesgo": "AISLAMIENTO DE ENERGÍA",
+            "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
+            "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
+            "Punto de intersección (según la tabla del IPERC)": "13",
+            "Descripción": "Este riesgo se presenta en entornos industriales donde se manejan equipos eléctricos o mecánicos. La falta de aislamiento adecuado de las fuentes de energía antes de realizar trabajos de mantenimiento puede llevar a accidentes graves, como electrocuciones, quemaduras o lesiones por movimiento inesperado de máquinas.",
+            "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/65/Historia_Reiss_%28Anime%29_character_image.png"
+        },
+        {
+            "id": 7,
+            "Riesgo": "AISLAMIENTO DE ENERGÍA",
+            "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
+            "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
+            "Punto de intersección (según la tabla del IPERC)": "13",
+            "Descripción": "Este riesgo se presenta en entornos industriales donde se manejan equipos eléctricos o mecánicos. La falta de aislamiento adecuado de las fuentes de energía antes de realizar trabajos de mantenimiento puede llevar a accidentes graves, como electrocuciones, quemaduras o lesiones por movimiento inesperado de máquinas.",
+            "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/66/Annie_Leonhart_%28Anime%29_character_image.png"
+        },
+        {
+            "id": 8,
+            "Riesgo": "AISLAMIENTO DE ENERGÍA",
+            "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
+            "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
+            "Punto de intersección (según la tabla del IPERC)": "13",
+            "Descripción": "Este riesgo se presenta en entornos industriales donde se manejan equipos eléctricos o mecánicos. La falta de aislamiento adecuado de las fuentes de energía antes de realizar trabajos de mantenimiento puede llevar a accidentes graves, como electrocuciones, quemaduras o lesiones por movimiento inesperado de máquinas.",
+            "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/43/Ymir_%28Anime%29_character_image.png"
+        },
+        {
+            "id": 9,
+            "Riesgo": "AISLAMIENTO DE ENERGÍA",
+            "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
+            "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
+            "Punto de intersección (según la tabla del IPERC)": "13",
+            "Descripción": "Este riesgo se presenta en entornos industriales donde se manejan equipos eléctricos o mecánicos. La falta de aislamiento adecuado de las fuentes de energía antes de realizar trabajos de mantenimiento puede llevar a accidentes graves, como electrocuciones, quemaduras o lesiones por movimiento inesperado de máquinas.",
+            "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/6d/Reiner_Braun_%28Anime%29_character_image.png"
+        },
+        {
+            "id": 10,
+            "Riesgo": "AISLAMIENTO DE ENERGÍA",
+            "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
+            "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
+            "Punto de intersección (según la tabla del IPERC)": "13",
+            "Descripción": "Este riesgo se presenta en entornos industriales donde se manejan equipos eléctricos o mecánicos. La falta de aislamiento adecuado de las fuentes de energía antes de realizar trabajos de mantenimiento puede llevar a accidentes graves, como electrocuciones, quemaduras o lesiones por movimiento inesperado de máquinas.",
+            "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/56/Bertholdt_Hoover_%28Anime%29_character_image.png"
+        }
+    ],
+    "profile": {
+        "name": "CategoríaI"
+    }
+}
