@@ -1,7 +1,7 @@
 {
     "ProyectoC1": [
         {
-            "number": 1,
+            "Number": 1,
             "Riesgo": "AISLAMIENTO DE ENERGÍA",
             "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
             "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
@@ -10,7 +10,7 @@
             "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a1/Eren_Jaeger_(Anime)_character_image.png"
         },
         {
-            "number": 2,
+            "Number": 2,
             "Control": "PROCEDIMIENTOS DE BLOQUEO Y ETIQUETADO (LOTO)",
             "Severidad": "Menor (con procedimientos adecuados se pueden prevenir incidentes)",
             "Frecuencia": "Raro que suceda (si se siguen las medidas de protección adecuadas)",
@@ -19,7 +19,7 @@
             "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4f/Mikasa_Ackermann_%28Anime%29_character_image.png"
         },
         {
-            "number": 3,
+            "Number": 3,
             "Riesgo": "AISLAMIENTO DE ENERGÍA",
             "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
             "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
@@ -28,7 +28,7 @@
             "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/93/Armin_Arlelt_%28Anime%29_character_image.png"
         },
         {
-            "number": 4,
+            "Number": 4,
             "Riesgo": "AISLAMIENTO DE ENERGÍA",
             "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
             "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
@@ -37,7 +37,7 @@
             "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b1/Levi_Ackermann_%28Anime%29_character_image.png"
         },
         {
-            "number": 5,
+            "Number": 5,
             "Riesgo": "AISLAMIENTO DE ENERGÍA",
             "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
             "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
@@ -46,7 +46,7 @@
             "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/40/Zeke_Jaeger_%28Anime%29_character_image.png"
         },
         {
-            "number": 6,
+            "Number": 6,
             "Riesgo": "AISLAMIENTO DE ENERGÍA",
             "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
             "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
@@ -55,7 +55,7 @@
             "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/65/Historia_Reiss_%28Anime%29_character_image.png"
         },
         {
-            "number": 7,
+            "Number": 7,
             "Riesgo": "AISLAMIENTO DE ENERGÍA",
             "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
             "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
@@ -64,7 +64,7 @@
             "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/66/Annie_Leonhart_%28Anime%29_character_image.png"
         },
         {
-            "number": 8,
+            "Number": 8,
             "Riesgo": "AISLAMIENTO DE ENERGÍA",
             "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
             "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
@@ -73,7 +73,7 @@
             "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/43/Ymir_%28Anime%29_character_image.png"
         },
         {
-            "number": 9,
+            "Number": 9,
             "Riesgo": "AISLAMIENTO DE ENERGÍA",
             "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
             "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
@@ -82,7 +82,7 @@
             "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/6d/Reiner_Braun_%28Anime%29_character_image.png"
         },
         {
-            "number": 10,
+            "Number": 10,
             "Riesgo": "AISLAMIENTO DE ENERGÍA",
             "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
             "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
