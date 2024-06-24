@@ -3,92 +3,114 @@
         {
             "Number": 1,
             "Riesgo": "AISLAMIENTO DE ENERGÍA",
-            "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
-            "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
-            "Punto de intersección (según la tabla del IPERC)": "13",
             "Descripción": "Este riesgo se presenta en entornos industriales donde se manejan equipos eléctricos o mecánicos. La falta de aislamiento adecuado de las fuentes de energía antes de realizar trabajos de mantenimiento puede llevar a accidentes graves, como electrocuciones, quemaduras o lesiones por movimiento inesperado de máquinas.",
-            "img": "https://drive.google.com/file/d/1CNtR3jkrS-T98ea8OTCTVEAZy53d6XxQ/view"
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/1.jpg"
         },
         {
             "Number": 2,
-            "Control": "PROCEDIMIENTOS DE BLOQUEO Y ETIQUETADO (LOTO)",
-            "Severidad": "Menor (con procedimientos adecuados se pueden prevenir incidentes)",
-            "Frecuencia": "Raro que suceda (si se siguen las medidas de protección adecuadas)",
-            "Punto de intersección (según la tabla del IPERC)": "24",
-            "Descripción": "Implementar y seguir estrictamente los procedimientos de bloqueo y etiquetado (LOTO), capacitación constante del personal sobre prácticas seguras, realizar inspecciones periódicas de los equipos, y asegurarse de que todos los trabajadores tengan y utilicen el equipo de protección personal adecuado.",
-            "img": "https://drive.google.com/file/d/1TXVRhL2Ijq5F5SM9UR9uApfXKt4i7FBt/view"
+            "Riesgo": "AISLAMIENTO DE ENERGÍA",
+            "Severidad": "Mortalidad (puede causar la muerte debido a la posibilidad de electrocución o liberación de energía acumulada)",
+            "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
+            "Punto de intersección (según la tabla del IPERC)": "8",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/2.jpg"
         },
         {
             "Number": 3,
-            "Riesgo": "AISLAMIENTO DE ENERGÍA",
-            "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
-            "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
-            "Punto de intersección (según la tabla del IPERC)": "13",
-            "Descripción": "Este riesgo se presenta en entornos industriales donde se manejan equipos eléctricos o mecánicos. La falta de aislamiento adecuado de las fuentes de energía antes de realizar trabajos de mantenimiento puede llevar a accidentes graves, como electrocuciones, quemaduras o lesiones por movimiento inesperado de máquinas.",
-            "img": ""
+            "Control": "PROCEDIMIENTOS DE BLOQUEO Y ETIQUETADO (LOTO)",
+            "Descripción": "Implementar y seguir estrictamente los procedimientos de bloqueo y etiquetado (LOTO), capacitación constante del personal sobre prácticas seguras, realizar inspecciones periódicas de los equipos, y asegurarse de que todos los trabajadores tengan y utilicen el equipo de protección personal adecuado.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/3.jpg"
         },
         {
             "Number": 4,
-            "Riesgo": "AISLAMIENTO DE ENERGÍA",
-            "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
-            "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
-            "Punto de intersección (según la tabla del IPERC)": "13",
-            "Descripción": "Este riesgo se presenta en entornos industriales donde se manejan equipos eléctricos o mecánicos. La falta de aislamiento adecuado de las fuentes de energía antes de realizar trabajos de mantenimiento puede llevar a accidentes graves, como electrocuciones, quemaduras o lesiones por movimiento inesperado de máquinas.",
-            "img": ""
+            "Control": "PROCEDIMIENTOS DE BLOQUEO Y ETIQUETADO (LOTO)",
+            "Severidad": "Mortalidad (puede causar la muerte si no se maneja adecuadamente)",
+            "Frecuencia": "Raro que suceda (si se siguen los procedimientos de bloqueo y etiquetado)",
+            "Punto de intersección (según la tabla del IPERC)": "12",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/4.jpg"
         },
         {
             "Number": 5,
-            "Riesgo": "AISLAMIENTO DE ENERGÍA",
-            "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
-            "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
-            "Punto de intersección (según la tabla del IPERC)": "13",
-            "Descripción": "Este riesgo se presenta en entornos industriales donde se manejan equipos eléctricos o mecánicos. La falta de aislamiento adecuado de las fuentes de energía antes de realizar trabajos de mantenimiento puede llevar a accidentes graves, como electrocuciones, quemaduras o lesiones por movimiento inesperado de máquinas.",
-            "img": ""
+            "Riesgo": "TRABAJO EN ALTURA",
+            "Descripción": "Este riesgo se presenta en cualquier actividad realizada a una altura donde una caída podría causar lesiones graves o la muerte. Es común en sectores como la construcción, la reparación de edificios, el mantenimiento de torres y estructuras elevadas.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/5.jpg"
         },
         {
             "Number": 6,
-            "Riesgo": "AISLAMIENTO DE ENERGÍA",
-            "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
-            "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
-            "Punto de intersección (según la tabla del IPERC)": "13",
-            "Descripción": "Este riesgo se presenta en entornos industriales donde se manejan equipos eléctricos o mecánicos. La falta de aislamiento adecuado de las fuentes de energía antes de realizar trabajos de mantenimiento puede llevar a accidentes graves, como electrocuciones, quemaduras o lesiones por movimiento inesperado de máquinas.",
-            "img": ""
+            "Riesgo": "TRABAJO EN ALTURA",
+            "Severidad": "Mortalidad (debido a la posibilidad de caídas desde alturas significativas)",
+            "Frecuencia": "Ha sucedido (es un riesgo común en muchas industrias como la construcción, mantenimiento y telecomunicaciones)",
+            "Punto de intersección (según la tabla del IPERC)": "5",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/6.jpg"
         },
         {
             "Number": 7,
-            "Riesgo": "AISLAMIENTO DE ENERGÍA",
-            "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
-            "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
-            "Punto de intersección (según la tabla del IPERC)": "13",
-            "Descripción": "Este riesgo se presenta en entornos industriales donde se manejan equipos eléctricos o mecánicos. La falta de aislamiento adecuado de las fuentes de energía antes de realizar trabajos de mantenimiento puede llevar a accidentes graves, como electrocuciones, quemaduras o lesiones por movimiento inesperado de máquinas.",
-            "img": ""
+            "Control": "EQUIPOS DE PROTECCIÓN CONTRA CAÍDAS",
+            "Descripción": "Uso de arneses y líneas de vida, instalación de barandillas y redes de seguridad, capacitación en técnicas de trabajo seguro en alturas, y realización de inspecciones regulares de los equipos de protección contra caídas.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/7.jpg"
         },
         {
             "Number": 8,
-            "Riesgo": "AISLAMIENTO DE ENERGÍA",
-            "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
-            "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
-            "Punto de intersección (según la tabla del IPERC)": "13",
-            "Descripción": "Este riesgo se presenta en entornos industriales donde se manejan equipos eléctricos o mecánicos. La falta de aislamiento adecuado de las fuentes de energía antes de realizar trabajos de mantenimiento puede llevar a accidentes graves, como electrocuciones, quemaduras o lesiones por movimiento inesperado de máquinas.",
-            "img": ""
+            "Control": "EQUIPOS DE PROTECCIÓN CONTRA CAÍDAS",
+            "Severidad": "Mortalidad (con medidas de seguridad adecuadas se pueden evitar caídas)",
+            "Frecuencia": "Podría suceder (es posible si no se utilizan adecuadamente los equipos)",
+            "Punto de intersección (según la tabla del IPERC)": "8",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/8.jpg"
         },
         {
             "Number": 9,
-            "Riesgo": "AISLAMIENTO DE ENERGÍA",
-            "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
-            "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
-            "Punto de intersección (según la tabla del IPERC)": "13",
-            "Descripción": "Este riesgo se presenta en entornos industriales donde se manejan equipos eléctricos o mecánicos. La falta de aislamiento adecuado de las fuentes de energía antes de realizar trabajos de mantenimiento puede llevar a accidentes graves, como electrocuciones, quemaduras o lesiones por movimiento inesperado de máquinas.",
-            "img": ""
+            "Riesgo": "IZAJE DE CARGA",
+            "Descripción": "Este riesgo ocurre durante el levantamiento y movimiento de cargas pesadas utilizando equipos como grúas, polipastos o montacargas. La falta de inspección adecuada del equipo, el mal aseguramiento de la carga o errores operativos pueden llevar a accidentes graves.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/9.jpg"
         },
         {
             "Number": 10,
-            "Riesgo": "AISLAMIENTO DE ENERGÍA",
-            "Severidad": "Permanente (debido a la posibilidad de electrocución o liberación de energía acumulada)",
-            "Frecuencia": "Podría suceder (puede ocurrir si no se siguen los procedimientos adecuados de bloqueo y etiquetado)",
-            "Punto de intersección (según la tabla del IPERC)": "13",
-            "Descripción": "Este riesgo se presenta en entornos industriales donde se manejan equipos eléctricos o mecánicos. La falta de aislamiento adecuado de las fuentes de energía antes de realizar trabajos de mantenimiento puede llevar a accidentes graves, como electrocuciones, quemaduras o lesiones por movimiento inesperado de máquinas.",
-            "img": ""
+            "Riesgo": "IZAJE DE CARGA",
+            "Severidad": "Mortalidad (puede causar la muerte si la carga cae sobre una persona)",
+            "Frecuencia": "Ha sucedido (sucede si no se siguen las medidas de seguridad adecuadas y procedimientos de izaje)",
+            "Punto de intersección (según la tabla del IPERC)": "5",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/10.jpg"
+        },
+        {
+            "Number": 11,
+            "Control": "PROCEDIMIENTOS DE IZAJE SEGURO",
+            "Descripción": "Realizar inspecciones regulares del equipo de izaje, asegurar adecuadamente las cargas antes de levantarlas, capacitar a los operadores sobre procedimientos seguros, y establecer un área segura alrededor de la zona de izaje.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/11.jpg"
+        },
+        {
+            "Number": 12,
+            "Control": "PROCEDIMIENTOS DE IZAJE SEGURO",
+            "Severidad": "Mortalidad (puede prevenir muertes si se implementan correctamente)",
+            "Frecuencia": "Podría suceder (es posible si no se siguen las medidas de seguridad adecuadas)",
+            "Punto de intersección (según la tabla del IPERC)": "24",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/12.jpg"
+        },
+        {
+            "Number": 13,
+            "Riesgo": "ATRAPAMIENTO",
+            "Descripción": "Este riesgo se presenta en situaciones donde los trabajadores pueden quedar atrapados por maquinaria, equipos en movimiento, o entre objetos y estructuras. Es común en industrias como la manufactura, construcción y minería.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/13.jpg"
+        },
+        {
+            "Number": 14,
+            "Riesgo": "ATRAPAMIENTO",
+            "Severidad": "Mortalidad (puede resultar en la muerte, amputaciones o lesiones graves)",
+            "Frecuencia": "Ha sucedido (es un riesgo común en varias industrias, especialmente donde hay maquinaria en movimiento)",
+            "Punto de intersección (según la tabla del IPERC)": "5",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/14.jpg"
+        },
+        {
+            "Number": 15,
+            "Control": "INSTALACIÓN DE BOTONES DE STOP INMEDIATO",
+            "Descripción": "Instalar botones de parada de emergencia en todas las máquinas, capacitar al personal sobre el uso correcto de estos dispositivos, realizar inspecciones regulares para asegurar su funcionamiento y asegurar que los trabajadores estén siempre al tanto de la ubicación y el uso de los botones de parada.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/15.jpg"
+        },
+        {
+            "Number": 16,
+            "Control": "INSTALACIÓN DE BOTONES DE STOP INMEDIATO",
+            "Severidad": "Mortalidad (con protecciones y procedimientos adecuados se pueden prevenir incidentes)",
+            "Frecuencia": "Raro que suceda (si se siguen las medidas de seguridad adecuadas)",
+            "Punto de intersección (según la tabla del IPERC)": "12",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/16.jpg"
         }
     ],
     "profile": {
