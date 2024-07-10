@@ -111,6 +111,314 @@
             "Frecuencia": "Raro que suceda (si se siguen las medidas de seguridad adecuadas)",
             "Punto de intersección (según la tabla del IPERC)": "12",
             "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/16.jpg"
+        },
+        {
+            "Number": 17,
+            "Riesgo": "VEHÍCULOS LIVIANOS",
+            "Descripción": "Tiene lugar dentro del transporte en minería cuando se opera vehículos livianos bajo condiciones que alterar la concentración del conductor, como fatigas, somnolencias u otros.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/17.jpg"
+        },
+        {
+            "Number": 18,
+            "Riesgo": "VEHÍCULOS LIVIANOS",
+            "Severidad": "Temporal ya que lesiona temporalmente al conductor y personas involucradas.",
+            "Frecuencia": "Podría suceder",
+            "Punto de intersección (según la tabla del IPERC)": "8",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/18.jpg"
+        },
+        {
+            "Number": 19,
+            "Control": "VERIFICACIÓN DE LICENCIAS Y MONITOREO CONSTANTE DE LÍMITES DE VELOCIDAD",
+            "Descripción": "Establecer procedimientos y políticas estrictas que permitan un MANEJO DEFENSIVO de vehículos livianos, incluyendo campañas de promuevan el uso correcto del cinturon de seguridad y las fatalidad del uso de celular en turnos de manejo.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/19.jpg"
+        },
+        {
+            "Number":20,
+            "Control": "VERIFICACIÓN DE LICENCIAS Y MONITOREO CONSTANTE DE LÍMITES DE VELOCIDAD",
+            "Severidad": "Temporal ya que lesiona temporalmente al conductor y personas involucradas.",
+            "Frecuencia": "Raro que suceda con políticas estrictas que autoticen la maniobra de vehículos livianos.",
+            "Punto de intersección (según la tabla del IPERC)": "12",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/20.jpg"
+        },
+        {
+            "Number": 21,
+            "Riesgo": "VEHÍCULOS PESADOSO",
+            "Descripción": "Tiene lugar dentro del transporte en minería cuando se maniobra vehículos pesados bajo condiciones que alterar la concentración del conductor, como fatigas, somnolencias u otros.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/21.jpg"
+        },
+        {
+            "Number": 22,
+            "Riesgo": "VEHÍCULOS PESADOS",
+            "Severidad": "Permanente dado que lesiona de por vida a las personas afectadas.",
+            "Frecuencia": "Ha sucedido",
+            "Punto de intersección (según la tabla del IPERC)": "5",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/22.jpg"
+        },
+        {
+            "Number": 23,
+            "Control": "POLÍTICAS ESTRICTAS DE MANEJO",
+            "Descripción": "Implementación de controles de monitoreo interno y continuo en el interior del vehículo, detectando así signos de fatiga o cansancio.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/23.jpg"
+        },
+        {
+            "Number": 24,
+            "Control": "POLÍTICAS ESTRICTAS DE MANEJO",
+            "Severidad": "Permanente dado que lesiona de por vida a las personas afectadas.",
+            "Frecuencia": "Raro que suceda  con políticas estrictas que autoticen la maniobra de vehículos pesados.",
+            "Punto de intersección (según la tabla del IPERC)": "12",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/24.jpg"
+        },
+        {
+            "Number": 25,
+            "Riesgo": "INUNDACIONES SUBTERRÁNEAS",
+            "Descripción": "Se da cuando el sistema de bombeo al interior de mina no esta funcionando correctamente  y al no existir bombeo eficiente y controlado, la mina termina hundiéndose.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/25.jpg"
+        },
+        {
+            "Number": 26,
+            "Riesgo": "INUNDACIONES SUBTERRÁNEAS",
+            "Severidad": "Mortalidad por posible muerte por asfixia.",
+            "Frecuencia": "Ha sucedido.",
+            "Punto de intersección (según la tabla del IPERC)": "2",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/26.jpg"
+        },
+        {
+            "Number": 27,
+            "Control": "MONITOREO Y EQUIPAMIENTO EN ZONA CONFINADA",
+            "Descripción": "Realizar mantenimiento preventivo a sistemas de bombeo que aseguren la circulación del agua y simulacros añadido de rutas de evacuación en mina subterránea.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/27.jpg"
+        },
+        {
+            "Number": 28,
+            "Control": "MONITOREO Y EQUIPAMIENTO EN ZONA CONFINADA",
+            "Severidad": "Mortalidad por posible muerte por asfixia.",
+            "Frecuencia": "Practicamente imposible que suceda.",
+            "Punto de intersección (según la tabla del IPERC)": "11",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/28.jpg"
+        },
+        {
+            "Number": 29,
+            "Riesgo": "ENTRADA A ESPACIOS CONFINADOS",
+            "Descripción": "El riesgo a entradas de espacios confinados en minas se refiere a los peligros asociados con la entrada, trabajo y salida de espacios confinados dentro del entorno minero. Los espacios confinados son áreas que no están diseñadas para una ocupación continua y tienen acceso limitado o restringido, lo que dificulta la entrada, salida y la posibilidad de realizar rescates en caso de emergencia.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/29.jpg"
+        },
+        {
+            "Number": 30,
+            "Riesgo": "ENTRADA A ESPACIOS CONFINADOS",
+            "Severidad": "Mortalidad por posible muerte por asfixia.",
+            "Frecuencia": "Ha sucedido.",
+            "Punto de intersección (según la tabla del IPERC)": "5",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/30.jpg"
+        },
+        {
+            "Number": 31,
+            "Control": "VENTILACIÓN EFICIENTE Y MONITOREO DE LA CALIDAD DE AIRE EN ESPACIOS CONFINADOS",
+            "Descripción": "Utilizar equipos de detección para monitorear la calidad del aire antes y durante la entrada, asegurando niveles seguros de oxígeno y ausencia de gases tóxicos, añadido de una ventilación suficiente para mantener un ambiente seguro dentro del espacio confinado.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/31.jpg"
+        },
+        {
+            "Number": 32,
+            "Control": "VENTILACIÓN EFICIENTE Y MONITOREO DE LA CALIDAD DE AIRE EN ESPACIOS CONFINADOS",
+            "Severidad": "Mortalidad por posible muerte por asfixia.",
+            "Frecuencia": "Raro que suceda.",
+            "Punto de intersección (según la tabla del IPERC)": "12",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/32.jpg"
+        },
+        {
+            "Number": 33,
+            "Riesgo": "FUEGO",
+            "Descripción": "Este riesgo se presenta en cualquier entorno donde existan materiales inflamables, fuentes de calor o posibles fallas eléctricas. Los incendios pueden propagarse rápidamente, causando lesiones graves o la muerte, así como daños extensos a las instalaciones.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/33.jpg"
+        },
+        {
+            "Number": 34,
+            "Riesgo": "FUEGO",
+            "Severidad": "Mortalidad(puede generar muchas muertes y una destrucción significativa)",
+            "Frecuencia": "Podría suceder (puede ocurrir si no se siguen las medidas de prevención de incendios adecuadas)",
+            "Punto de intersección (según la tabla del IPERC)": "8",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/34.jpg"
+        },
+        {
+            "Number": 35,
+            "Control": "SISTEMAS DE DETECCIÓN Y EXTINCIÓN DE INCENDIOS",
+            "Descripción": " Implementar sistemas de detección y extinción de incendios, capacitar al personal en procedimientos de evacuación, mantener adecuadamente los equipos eléctricos, y realizar simulacros de incendio regularmente.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/35.jpg"
+        },
+        {
+            "Number": 36,
+            "Control": "SISTEMAS DE DETECCIÓN Y EXTINCIÓN DE INCENDIOS",
+            "Severidad": "Mortalidad (No deberia suceder si se hacen efectivas las medidas de seguridad)",
+            "Frecuencia": "Raro que suceda (si se siguen las medidas de prevención de incendios)",
+            "Punto de intersección (según la tabla del IPERC)": "12",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/36.jpg"
+        },
+        {
+            "Number": 37,
+            "Riesgo": "VENTILACIÓN SUBTERRÁNEA",
+            "Descripción": "Este riesgo se presenta en minas y túneles subterráneos donde una ventilación inadecuada puede llevar a la acumulación de gases peligrosos como metano, monóxido de carbono y otros contaminantes.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/37.jpg"
+        },
+        {
+            "Number": 38,
+            "Riesgo": "VENTILACIÓN SUBTERRÁNEA",
+            "Severidad": "Mortalidad (puede resultar en asfixia, intoxicación por gases tóxicos o explosiones)",
+            "Frecuencia": "Ha sucedido (puede ocurrir si no se mantiene y supervisa adecuadamente el sistema de ventilación)",
+            "Punto de intersección (según la tabla del IPERC)": "5",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/38.jpg"
+        },
+        {
+            "Number": 39,
+            "Control": "SISTEMA DE VENTILACIÓN EFICAZ",
+            "Descripción": "Mantener un sistema de ventilación eficaz, realizar monitoreos constantes de la calidad del aire, capacitar al personal sobre los peligros y procedimientos de emergencia relacionados con la ventilación subterránea, y tener equipos de respiración de emergencia disponibles.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/39.jpg"
+        },
+        {
+            "Number": 40,
+            "Control": "SISTEMA DE VENTILACIÓN EFICAZ",
+            "Severidad": "Mortalidad (se evitarian incidentes con el diseño y planificación de una ventilación eficaz)",
+            "Frecuencia": "Raro que suceda (si se realizan monitoreos y mantenimientos constantes)",
+            "Punto de intersección (según la tabla del IPERC)": "12",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/40.jpg"
+        },
+        {
+            "Number": 41,
+            "Riesgo": "ESTABILIDAD DE TALUD",
+            "Descripción": "Este riesgo se presenta en obras de construcción, minería a tajo abierto y carreteras, donde la inestabilidad de las pendientes puede llevar a deslizamientos de tierra.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/41.jpg"
+        },
+        {
+            "Number": 42,
+            "Riesgo": "ESTABILIDAD DE TALUD",
+            "Severidad": "Mortalidad (puede resultar en deslizamientos de tierra que causen la muerte de trabajadores y daños a la infraestructura)",
+            "Frecuencia": "Podría suceder (puede ocurrir si no se realizan estudios geotécnicos adecuados y monitoreo constante)",
+            "Punto de intersección (según la tabla del IPERC)": "8",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/42.jpg"
+        },
+        {
+            "Number": 43,
+            "Control": "MEDIDAS DE ESTABILIZACIÓN DE TALUDES",
+            "Descripción": " Realizar estudios geotécnicos detallados, implementar medidas de control de erosión y estabilización, realizar monitoreos regulares para detectar signos de inestabilidad, y capacitar al personal sobre los riesgos y procedimientos seguros relacionados con la estabilidad de taludes.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/43.jpg"
+        },
+        {
+            "Number": 44,
+            "Control": "MEDIDAS DE ESTABILIZACIÓN DE TALUDES",
+            "Severidad": "Mortalidad ( De suceder desencadenaria en un evento donde se pueden perder muchas vidas)",
+            "Frecuencia": "Raro que suceda (si se realizan estudios y monitoreos adecuados)",
+            "Punto de intersección (según la tabla del IPERC)": "12",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/44.jpg"
+        },
+        {
+            "Number": 45,
+            "Riesgo": "CAÍDA DE ROCAS",
+            "Descripción": "Este riesgo ocurre comúnmente en minas subterráneas a más de 500 metros de profundidad debido a la acumulación de esfuerzos. Puede resultar en la caída de rocas o fragmentos desde el techo o las paredes de la mina.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/45.jpg"
+        },
+        {
+            "Number": 46,
+            "Riesgo": "CAÍDA DE ROCAS",
+            "Severidad": "Mortalidad (porque pueden fallecer trabajadores)",
+            "Frecuencia": "Es raro que suceda cuando la labor está sostenida.",
+            "Punto de intersección (según la tabla del IPERC)": "8",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/46.jpg"
+        },
+        {
+            "Number": 47,
+            "Control": "REALIZAR LA TRAZABILIDAD DE LOS EXPLOSIVOS",
+            "Descripción": "Para reducir el riesgo de caída de rocas, es esencial llevar un control riguroso de los explosivos y verificar constantemente sus fechas de vencimiento. Deben ser manipulados con extremo cuidado, asegurando que solo personal capacitado y autorizado por SUCAMEC tenga acceso a ellos.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/47.jpg"
+        },
+        {
+            "Number": 48,
+            "Control": "REALIZAR LA TRAZABILIDAD DE LOS EXPLOSIVOS",
+            "Severidad": "Mortalidad (porque pueden fallecer trabajadores)",
+            "Frecuencia": "Raro que suceda si se realizar la trazabilidad de los explosivos.",
+            "Punto de intersección (según la tabla del IPERC)": "12",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/48.jpg"
+        },
+        {
+            "Number": 49,
+            "Riesgo": "VOLADURA",
+            "Descripción": "Este riesgo está relacionado con las operaciones de voladura en la mina. Puede causar lesiones graves debido a la liberación de energía durante la explosión.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/49.jpg"
+        },
+        {
+            "Number": 50,
+            "Riesgo": "VOLADURA",
+            "Severidad": "Mortalidad (pueden fallecer trabajadores)",
+            "Frecuencia": "Ha sucedido. durante las operaciones de voladura.",
+            "Punto de intersección (según la tabla del IPERC)": "5",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/50.jpg"
+        },
+        {
+            "Number": 51,
+            "Control": "VERIFICAR LA EVACUACIÓN DEL PERSONAL ANTES DE QUE SE INICIE LA VOLADURA",
+            "Descripción": "El procedimiento de control implica la meticulosa verificación de la evacuación completa del personal de la zona designada antes de iniciar cualquier operación de voladura. Este proceso es esencial para garantizar la seguridad y protección de todos los implicados, en estricto cumplimiento de los protocolos de seguridad vigentes para emergencias y actividades mineras.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/51.jpg"
+        },
+        {
+            "Number": 52,
+            "Control": "VERIFICAR LA EVACUACIÓN DEL PERSONAL ANTES DE QUE SE INICIE LA VOLADURA",
+            "Severidad": "Mortalidad (pueden fallecer trabajadores)",
+            "Frecuencia": "Raro que suceda si no se realiza la evacuación adecuada del personal.",
+            "Punto de intersección (según la tabla del IPERC)": "12",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/52.jpg"
+        },
+        {
+            "Number": 53,
+            "Riesgo": "SUSTANCIAS PELIGROSAS",
+            "Descripción": "Este riesgo se refiere al manejo de sustancias químicas peligrosas en la mina. Puede afectar la salud de los trabajadores si no se toman las precauciones adecuadas.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/53.jpg"
+        },
+        {
+            "Number": 54,
+            "Riesgo": "SUSTANCIAS PELIGROSAS",
+            "Severidad": "Permanente (efectos a largo plazo)",
+            "Frecuencia": "Es común en áreas donde se manejan sustancias peligrosas.",
+            "Punto de intersección (según la tabla del IPERC)": "6",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/54.jpg"
+        },
+        {
+            "Number": 55,
+            "Control": "USAR EPPS - (MASCARILLAS, RESPIRADORES, PROTECTORES)",
+            "Descripción": "Para manejar los peligros relacionados con sustancias peligrosas, es crucial emplear equipos de protección personal (EPP) apropiados, como mascarillas y respiradores. Asimismo, es fundamental adherirse rigurosamente a los protocolos establecidos y cumplir con los límites de exposición permitidos para cada sustancia, asegurando de esta manera la seguridad adecuada.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/55.jpg"
+        },
+        {
+            "Number": 56,
+            "Control": "USAR EPPS - (MASCARILLAS, RESPIRADORES, PROTECTORES)",
+            "Severidad": "Mortalidad (pueden fallecer trabajadores)",
+            "Frecuencia": "Raro que suceda si no se sigue los procedimientos, respetando las concentraciones de las sustancias.",
+            "Punto de intersección (según la tabla del IPERC)": "12",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/56.jpg"
+        },
+        {
+            "Number": 57,
+            "Riesgo": "INSTALACIONES ELÉCTRICAS",
+            "Descripción": "Este riesgo está relacionado con el uso y mantenimiento de instalaciones eléctricas en la mina. Puede resultar en electrocución o incendios si no se maneja correctamente.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/57.jpg"
+        },
+        {
+            "Number": 58,
+            "Riesgo": "INSTALACIONES ELÉCTRICAS",
+            "Severidad": "Temporal (efectos temporales)",
+            "Frecuencia": "Podría suceder. durante el mantenimiento eléctrico.",
+            "Punto de intersección (según la tabla del IPERC)": "18",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/58.jpg"
+        },
+        {
+            "Number": 59,
+            "Control": "USO DE EPPS ADECUADOS PARA MANEJAR LA ENERGÍA",
+            "Descripción": "Para manejar el riesgo en instalaciones eléctricas, es crucial utilizar EPP adecuados para trabajar con energía y emplear herramientas aisladas. Estas medidas garantizan la seguridad al reducir el riesgo de electrocución y otros accidentes eléctricos.",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/59.jpg"
+        },
+        {
+            "Number": 60,
+            "Control": "USO DE EPPS ADECUADOS PARA MANEJAR LA ENERGÍA",
+            "Severidad": "Mortalidad (pueden fallecer trabajadores)",
+            "Frecuencia": "Raro que suceda si no se toman las medidas de seguridad correctas.usar herramientas aisladas.",
+            "Punto de intersección (según la tabla del IPERC)": "12",
+            "img": "https://github.com/Cristhian-0703/Api_ProyectoC1/blob/main/IMAGENES%20PROYECTOC1/60.jpg"
         }
     ],
     "profile": {
